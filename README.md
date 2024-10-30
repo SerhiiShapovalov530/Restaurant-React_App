@@ -7,9 +7,9 @@ Welcome to React Restaurant App! This is a sample restaurant application built u
 - Browse the Menu: View a list of delicious dishes available at our restaurant.
 - Responsive Design: The app is designed to work seamlessly across different devices.
 
-## Demo
+## Visit Website
 
-Check out the live demo of the app: [React Restaurant App Demo](https://ideepakpg.github.io/react-restaurant-app/)
+Check out the live demo of the app: [React Restaurant App](https://ideepakpg.github.io/react-restaurant-app/)
 
 ## Technologies Used
 
@@ -30,6 +30,7 @@ Check out the live demo of the app: [React Restaurant App Demo](https://ideepakp
    ```sh
    git clone https://github.com/ideepakpg/react-restaurant-app.git
    ```
+
 2. Navigate to the project directory
    ```
    cd react-restaurant-app
@@ -38,15 +39,12 @@ Check out the live demo of the app: [React Restaurant App Demo](https://ideepakp
    ```
    npm install
    ```
- 4. Start the development server:
-    ```
-    npm run dev
-    ```
-    This will launch the app in development mode. Open your browser and navigate to `http://localhost:5173` to see the app.
-    
-6. To build the app for production, run:
+4. Start the development server:
+   ```
+   npm run dev
+   ```
+   This will launch the app in development mode. Open your browser and navigate to `http://localhost:5173` to see the app.
+5. To build the app for production, run:
    ```sh
    npm run build
    ```
-
-
