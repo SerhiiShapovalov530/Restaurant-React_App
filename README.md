@@ -9,7 +9,7 @@ Welcome to React Restaurant App! This is a sample restaurant application built u
 
 ## Visit Website
 
-Check out the live demo of the app: [React Restaurant App](https://ideepakpg.github.io/react-restaurant-app/)
+Check the app: [React Restaurant App](https://ideepakpg.github.io/react-restaurant-app/)
 
 ## Technologies Used
 
